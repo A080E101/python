@@ -21,9 +21,10 @@ I hear it's nice there!
 
 ```
 ```
-Enter a number: 6
-Enter another number: 4
-6.0 * 4.0 = 24.0
+Enter a number to find the square of: 5
+Enter a integer to find the square of: 4
+16
+
 
 ```
 ```
