@@ -1,30 +1,34 @@
 ###python 第10章
 ```
-input("Where do you live? ")
-print("I live in Boston. ")
+hello!
+89.4
+abcdef
+ant
+
 ```
 ```
-input("Where do you live? ")
-print("I live in Boston. ")
+1 / 2 = 0.5
+1/2=0.5
 ```
 ```
-input("Where do you live? ")
-print("I live in Boston. ")
+Where do you live? 
+I live in Boston.
 ```
 ```
-user_place = input("Where do you live? ")
-text = user_place.capitalize()+ "!"
-print(text) 
-print("I hear it's nice there!") 
+Where do you live? 
+!
+I hear it's nice there!
+
 ```
 ```
-num = int(input ("Enter a number to find the square of: "))
-user_input = input("Enter a integer to find the square of: ")
-num = int(user_input) 
-print(num*num)
+Enter a number: 6
+Enter another number: 4
+6.0 * 4.0 = 24.0
+
 ```
 ```
-num1 = float(input("Enter a number: "))
-num2 = float(input("Enter another number: "))
-print(num1, "*", num2, "=", num1*num2)
+Enter a number: 6
+Enter another number: 4
+6.0 * 4.0 = 24.0
+
 ```
