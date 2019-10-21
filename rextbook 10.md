@@ -16,10 +16,10 @@ print(3*7*(22-5))
 ```
 ### 3
 ```
-print("abc"+"def")
+print("Obc"+"WQEf")
 ```
 ```
-abcdef
+ObcWQEf
 ```
 ### 4
 ```
@@ -28,4 +28,9 @@ print(word.replace("a", "771"))
 ```
 ```
 771cccfds
+```
+## 10-2
+### 1
+```
+
 ```
