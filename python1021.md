@@ -3,7 +3,7 @@
 ```
 word= "addcar"
 print(word.replace(a,ear))
-未定意A
+未定義 a
 ```
 ##2.
 ```
