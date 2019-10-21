@@ -21,3 +21,17 @@ print (word.replace ("a","ear",1))
 ```
 earddcar
 ```
+##4.
+```
+index=0
+while index < 1:
+  print("Hello word")
+```
+```
+無窮級數
+Hello word 
+```
+##5
+```
+
+```
