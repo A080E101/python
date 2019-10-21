@@ -32,5 +32,14 @@ print(word.replace("a", "771"))
 ## 10-2
 ### 1
 ```
-
+a= 8
+b= 4
+c = a/b
+print(a, "/", b, "=", c) 
+add = str(a)+"/"+str(b)+"="+str(c)
+print(add) 
+```
+```
+8 / 4 = 2.0
+8/4=2.0
 ```
